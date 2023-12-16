@@ -28,10 +28,9 @@
             <action android:name="android.intent.action.VIEW" />
             <category android:name="android.intent.category.DEFAULT" />
             <category android:name="android.intent.category.BROWSABLE" />
-            <data android:scheme="http" android:host="slash-eg.com" />
-            <data android:scheme="https" />
+            <data android:scheme="http" android:host="fb86-102-43-0-27.ngrok-free.app" />
+            <data android:scheme="https"  />
             </intent-filter>        
-
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
