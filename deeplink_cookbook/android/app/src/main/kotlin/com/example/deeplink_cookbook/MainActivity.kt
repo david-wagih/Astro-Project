@@ -1,4 +1,4 @@
-package com.example.deeplink_cookbook
+package com.davidwagih.deeplinkApp
 
 import io.flutter.embedding.android.FlutterActivity
 
